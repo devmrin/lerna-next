@@ -10,8 +10,8 @@ const Button = styled.button`
   cursor: pointer;
 `;
 
-const _Button = ({ onClick, children }) => {
-  return <Button onClick={onClick}>{children}</Button>;
+const _Button = (props) => {
+  return <Button {...props}>{props.children}</Button>;
 };
 
 export default _Button;
