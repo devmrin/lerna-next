@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Button } from "components";
+import { Button } from "devmrin-ui";
 
 const Home = () => (
   <div className="container">

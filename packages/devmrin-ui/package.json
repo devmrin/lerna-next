@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "devmrin-ui",
   "version": "0.0.1",
   "description": "React.js components library",
   "author": "Mrinmay Mukherjee <devmrin@gmail.com>",
@@ -31,5 +31,5 @@
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27"
   },
-  "gitHead": "8f37a8e082ca112dd6559f84ddd2cd3479f384c3"
+  "gitHead": "b0e5ba8719adb5383f6a8a52949271841a35d695"
 }
