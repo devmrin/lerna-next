@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/nirmalyaghosh23">
+  <a href="https://twitter.com/devmrin">
     <img alt="Twitter: Mrinmay Mukherjee" src="https://img.shields.io/twitter/follow/devmrin.svg?style=social" target="_blank" />
   </a>
 </p>
 
 This is a boilerplate for building mono-repo applications using [Lerna](https://lerna.js.org/). This mon-orepo consists of the following packages:
 
-1. [**front-end**](https://github.com/ghoshnirmalya/building-monorepos-using-lerna/tree/master/packages/front-end): Next.js application which uses the [Button component from the component package](https://github.com/ghoshnirmalya/building-monorepos-using-lerna/blob/master/packages/front-end/pages/index.js#L2)
-4. [**components**](https://github.com/ghoshnirmalya/building-monorepos-using-lerna/tree/master/packages/components): Sample React.js application with Storybook for creating a Design System
+1. [**front-end**](https://github.com/devmrin/lerna-next/tree/master/packages/front-end): Next.js application which uses the [Button component from the component package](https://github.com/devmrin/lerna-next/blob/master/packages/front-end/pages/index.js#L2)
+4. [**components**](https://github.com/devmrin/lerna-next/tree/master/packages/components): Sample React.js application with Storybook for creating a Design System
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -48,7 +48,7 @@ A demo of this application is hosted [here](https://lerna-monorepo.now.sh/).
 ### 1. **Clone the application**
 
 ```sh
-git clone https://github.com/ghoshnirmalya/building-monorepos-using-lerna
+git clone https://github.com/devmrin/lerna-next
 ```
 
 ### 2. **Install Lerna globally**
